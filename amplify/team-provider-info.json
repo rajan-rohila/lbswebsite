@@ -1,0 +1,27 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-lbswebsite-dev-05307-authRole",
+      "UnauthRoleArn": "arn:aws:iam::588835078617:role/amplify-lbswebsite-dev-05307-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::588835078617:role/amplify-lbswebsite-dev-05307-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-lbswebsite-dev-05307-deployment",
+      "UnauthRoleName": "amplify-lbswebsite-dev-05307-unauthRole",
+      "StackName": "amplify-lbswebsite-dev-05307",
+      "StackId": "arn:aws:cloudformation:us-east-1:588835078617:stack/amplify-lbswebsite-dev-05307/96a3c390-7aef-11ec-83fe-0aafd174e9b3",
+      "AmplifyAppId": "d12ufrrplawei9"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d12ufrrplawei9",
+          "type": "cicd"
+        }
+      },
+      "auth": {
+        "lbswebsite87717d64": {},
+        "lbswebsite": {}
+      }
+    }
+  }
+}
