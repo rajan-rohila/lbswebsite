@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "lbswebsite",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/rajasing/Desktop/workplace/personal/lbswebsite/amplify/backend/api/lbswebsite/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
