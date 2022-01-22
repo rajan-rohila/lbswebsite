@@ -1,8 +1,8 @@
 import React from "react";
+import { ContactUs } from "../../ui-components";
 
 const LandingPage = () => {
-  console.log("I am here");
-  return <div>Landing</div>;
+  return <ContactUs />;
 };
 
 export default LandingPage;
